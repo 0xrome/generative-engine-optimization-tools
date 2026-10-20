@@ -51,6 +51,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Promptwatch](https://aitools.inc/tools/promptwatch)** – Tracks brand mentions, pinpoints “answer gaps” and suggests new content topics to fill them.
 - **[Quno.ai](https://quno.ai)** – Brand-visibility scorecard, prompt-library tester and AI-SEO writer rolled into one; free tier available.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
+- **[Rankwise](https://tryrankwise.com)** - Tracks whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews cite a brand, drafts articles for the questions it loses, and lists technical fixes for AI crawlers. MCP server and REST API. From $59/mo.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
 - **[Search Visibility](https://search-visibility.ai)** – Tracks brand mentions across ChatGPT, Gemini, Claude, and more AI models.
